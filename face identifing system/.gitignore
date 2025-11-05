@@ -1,0 +1,4 @@
+# Ignore unnecessary or sensitive folders
+.nuget/
+*.xml
+*.nuspec
